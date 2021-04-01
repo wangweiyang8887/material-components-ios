@@ -55,7 +55,7 @@ static const UIEdgeInsets kDefaultItemViewContentInsetsImageOnly = {
     .top = 12, .right = 16, .bottom = 12, .left = 16};
 
 /** The leading edge inset for scrollable tabs. */
-static const CGFloat kScrollableTabsLeadingEdgeInset = 52;
+static const CGFloat kScrollableTabsLeadingEdgeInset = 0;
 
 /** The height of the bottom divider view. */
 static const CGFloat kBottomDividerHeight = 1;
