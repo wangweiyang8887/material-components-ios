@@ -37,7 +37,7 @@ static char *const kKVOContextMDCTabBarView = "kKVOContextMDCTabBarView";
 static const CGFloat kMinHeight = 48;
 
 /** Default minimum width of an item in the Tab bar */
-static const CGFloat kDefaultMinItemWidth = 72;
+static const CGFloat kDefaultMinItemWidth = 44;
 
 /// Outer edge padding from spec: https://material.io/go/design-tabs#spec.
 static const UIEdgeInsets kDefaultItemViewContentInsetsTextAndImage = {
