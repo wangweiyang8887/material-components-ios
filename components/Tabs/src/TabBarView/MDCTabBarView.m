@@ -453,7 +453,7 @@ static NSString *const kLargeContentSizeImageInsets = @"largeContentSizeImageIns
       // on the label to accomplish the effect instead.
       [UIView transitionWithView:tabBarViewItemView.titleLabel
                         duration:self.selectionChangeAnimationDuration
-                         options:UIViewAnimationOptionTransitionCrossDissolve
+                         options:UIViewAnimationOptionCurveEaseInOuts
                       animations:animations
                       completion:nil];
     } else {
