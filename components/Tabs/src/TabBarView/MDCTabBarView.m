@@ -48,7 +48,7 @@ static const UIEdgeInsets kDefaultItemViewContentInsetsTextAndImage = {
  minimal (8 points) padding so things don't look awful.
  */
 static const UIEdgeInsets kDefaultItemViewContentInsetsTextOnly = {
-    .top = 8, .right = 16, .bottom = 8, .left = 16};
+    .top = 8, .right = 10, .bottom = 8, .left = 10};
 
 /** Edge insets for image-only Tabs. */
 static const UIEdgeInsets kDefaultItemViewContentInsetsImageOnly = {
